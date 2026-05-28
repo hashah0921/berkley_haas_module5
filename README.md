@@ -34,7 +34,7 @@ A focused investigation was conducted on drivers who received **Bar** coupons to
 - **Hypothesis:** The coupon acts as a successful *nudge* for individuals who already exhibit a social, outgoing lifestyle, provided their immediate context (like not having kids in the car) allows for an impromptu stop.
 
 ### 4. Independent Investigation
-*(Note: To be completed by the analyst)* An independent exploration of another coupon group (e.g., Coffee House or Restaurants) using similar filtering, grouping, and visualization techniques to uncover new target demographics.
+
 
 ## Technologies Used
 * **Python** (Data processing and analysis)
