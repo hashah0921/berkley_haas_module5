@@ -1,1 +1,1 @@
-# berkley_haas_module5
+# README - Project Coupon
