@@ -33,7 +33,9 @@ A focused investigation was conducted on drivers who received **Bar** coupons to
 - Further analysis confirmed that the ideal demographic for a bar coupon is a driver who goes to bars regularly, does not have children as passengers, and is either younger (under 30) or works outside of farming/fishing/forestry.
 - **Hypothesis:** The coupon acts as a successful *nudge* for individuals who already exhibit a social, outgoing lifestyle, provided their immediate context (like not having kids in the car) allows for an impromptu stop.
 
-Executive Summary: Who Accepts the Coupons?
+# Executive Summary: Who Accepts the Coupons?
+
+
 After analyzing the driving scenarios and customer demographics, clear patterns emerged that separate the drivers who accepted the coupons from those who ignored them. Ultimately, the data suggests that mobile coupons act as a nudge for existing behaviors rather than a way to create entirely new habits.
 
 Here are the key differences between customers who accepted and rejected the coupons:
